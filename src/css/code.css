@@ -1,0 +1,63 @@
+.topic {
+   color: #444;
+   line-height: 1rem;
+}
+.topic-link {
+   color: #ea735d;
+}
+.topic-link:hover {
+   color: #f62c09;
+}
+.instructions {
+   margin-bottom: 8rem;
+   color: #666;
+}
+/* code box styles */
+.code {
+   tab-size: 1.5em;
+   background: rgb(40, 44, 52);
+   border-radius: 3px;
+   overflow: auto;
+   padding: 1.125rem;
+}
+
+.code-line {
+   margin-bottom: 1.75rem;
+   padding-right: 3rem;
+   font-size: 12px;
+   font-family: "Courier New", Courier, monospace;
+}
+.copy-code {
+   font-size: 13px;
+   padding: 0.25rem 0.5rem;
+   border: 1px solid grey;
+   display: inline-block;
+   border-radius: 3px;
+   background: #ea735d;
+   border: none;
+   color: #fff;
+   align-self: flex-end;
+   cursor: pointer;
+   user-select: none;
+   margin-bottom: 1rem;
+}
+/* code language HTML styles */
+.language-html {
+   display: flex;
+   flex-direction: column;
+}
+
+.comment {
+   color: #b3b3b3;
+}
+.tag {
+   color: #fc929e;
+}
+.attribute {
+}
+.attribute-value {
+   color: #4ab0d9;
+}
+.markup {
+   color: #dbc732;
+}

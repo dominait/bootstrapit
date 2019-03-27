@@ -1,0 +1,33 @@
+body {
+   color: #999;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+   color: #444;
+   font-weight: bold;
+}
+nav {
+   display: none;
+}
+main {
+   padding: 1rem;
+}
+.page-header {
+   text-align: center;
+   color: #444;
+}
+.logo {
+   max-width: calc(175px + 2vw);
+   margin-bottom: 1rem;
+}
+.title {
+   font-size: calc(18px + 1vw);
+   line-height: 1vw;
+}
+.tagline {
+   color: #888;
+   font-size: 14px;
+}

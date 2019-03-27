@@ -1,0 +1,22 @@
+{
+  "name": "bootstrapit",
+  "version": "1.0.0",
+  "description": "simple installation of bootstrap",
+  "main": "index.html",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "James Foley",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^4.0.0",
+    "gulp-cli": "^2.1.0"
+  }
+}
