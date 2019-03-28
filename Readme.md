@@ -6,10 +6,11 @@ Simple static site builder created on top of bootstrap. This kit uses more inter
   
 ## checklist
 Make sure you run through this checklist before you start your project.  
-- run npm install
-- add gulp to your local PATH  MAC:
-- open up your bash profile > code ~/.bash_profile
-- add > export PATH=$PATH:./node_modules/.bin
+- download the bootstrapit kit and in the terminal run npm install.
+- add gulp to your local PATH  
+&nbsp;&nbsp;MAC:
+            - open up your bash profile > code ~/.bash_profile
+            - add > export PATH=$PATH:./node_modules/.bin
 
   
 ## gulpfile.js
